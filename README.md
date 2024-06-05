@@ -1,4 +1,4 @@
-# IMPORTANTE DESHABILITAR CORS CON EXTENSION
+# IMPORTANTE DESHABILITAR CORS CON EXTENSION Y USAR NGROKK PARA LA API Y ACTUALIZAR LINK EN APP DISCORD
 # DiscordDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
